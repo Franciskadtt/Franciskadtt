@@ -29,4 +29,4 @@
 
 ### Main Projects
 1. <strong>Milestone 1 - Franciska Du Toit Portfolio: </strong><a href="https://github.com/Franciskadtt/franciskadutoit" alt="Franciska Du Toit Portfolio Repo" target="_blank">Repo</a> | <a href="https://franciskadtt.github.io/franciskadutoit/" alt="Franciska Du Toit Portfolio website" target="_blank">Website</a>
-2. <strong>Milestone 2 - Voyager:</strong> Not yet online, expected by end of March
+2. <strong>Milestone 2 - Voyager:</strong> Not yet online, expected by mid April
