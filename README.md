@@ -1,9 +1,9 @@
 # Hello there! My name is Franciska! 👋
-### I am a UX Designer & Software Developer, currently working on my third Milestone project!
+### I am a UX Designer & Software Developer, currently working on my 4th Milestone project!
 
 👩🏼‍💻 Currently studying Full Stack Development at Code Institute
 
-📚 Qualified in UX Design
+📚 Super interest in UX Design
 
 ⛵️ Learning how to Sail 
 
