@@ -3,7 +3,7 @@
 
 👩🏼‍💻 Currently studying Full Stack Development at Code Institute
 
-📚 Super interest in UX Design
+📚 Interest in UX Design
 
 ⛵️ Learning how to Sail 
 
