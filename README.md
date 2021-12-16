@@ -3,7 +3,7 @@
 
 👩🏼‍💻 Currently studying UX/UI Design at [Memorisely](https://www.memorisely.com/)
 
-📚 Studied in UX Design & Software Development
+📚 Studied UX Design & Software Development
 
 ⛵️ Learning how to Sail 
 
