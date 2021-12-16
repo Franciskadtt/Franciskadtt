@@ -1,13 +1,11 @@
 # Hello there! My name is Franciska! 👋
-### I am a UX Designer & Software Developer, currently working on my 4th Milestone project!
+### I am a Product Designer who enjoys coding
 
-👩🏼‍💻 Currently studying Full Stack Development at Code Institute
+👩🏼‍💻 Currently studying UX/UI Design ay Memorisely
 
-📚 Interest in UX Design
+📚 Studied in UX Design & Software Development
 
 ⛵️ Learning how to Sail 
-
-[View my Portfolio](https://franciskadutoit.com/).
 
 ## What I have worked with
 
@@ -24,10 +22,13 @@
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![Django](https://img.shields.io/badge/Django%20-%23000000.svg?&style=for-the-badge&logo=Django&logoColor=B41717)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
+![Stripe](https://img.shields.io/badge/Stripe%20-%234285F4.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 ### Databases 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%233F2E1E.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=47A248)
 
 ### Version Control & Coding
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
@@ -40,8 +41,9 @@
 ### Hosting 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Franciskadtt)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+![Webflow](https://img.shields.io/badge/Webflow%20-%23430098.svg?&style=for-the-badge&logo=Webflow&logoColor=FFFFFF)
 
-### UX & Design
+### UX & UI Design
 ![Figma](https://img.shields.io/badge/Figma%20-%23EE6E73.svg?&style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
@@ -55,6 +57,7 @@
 1. <strong>Milestone 1 - Franciska Du Toit Portfolio: </strong><a href="https://github.com/Franciskadtt/franciskadutoit" alt="Franciska Du Toit Portfolio Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://franciskadtt.github.io/franciskadutoit/" alt="Franciska Du Toit Portfolio website" target="_blank">Website</a>
 2. <strong>Milestone 2 - Voyager:</strong> </strong><a href="https://github.com/Franciskadtt/voyager" alt="Voyager Project Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://franciskadtt.github.io/voyager/" alt="Voyager project website" target="_blank" rel="noopener noreferrer">Website</a>
 3. <strong>Milestone 3 - The Growth Club:</strong> </strong><a href="https://github.com/Franciskadtt/the-growth-club" alt="Growth Club Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://the-growth-club.herokuapp.com/" alt="Growth Club website" target="_blank" rel="noopener noreferrer">Website</a>
+4. <strong>Milestone 4 - Happy Bean:</strong> </strong><a href="https://github.com/Franciskadtt/happybean" alt="Happy Bean Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://happybean.herokuapp.com/" alt="Growth Club website" target="_blank" rel="noopener noreferrer">Website</a>
 
 ### Group Projects
 1. <strong>Women in Tech Hackathon - Coding Sisters:</strong> </strong><a href="https://github.com/Franciskadtt/women-in-tech-hackathon" alt="Coding Sisters Repo" target="_blank" rel="noopener noreferrer">Repo</a> | <a href="https://franciskadtt.github.io/women-in-tech-hackathon/" alt="Coding Sisters project website" target="_blank" rel="noopener noreferrer">Website</a>
