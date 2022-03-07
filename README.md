@@ -1,9 +1,9 @@
 # Hello there! My name is Franciska! 👋
 ### I am a Product Designer who enjoys coding
 
-👩🏼‍💻 Currently studying UX/UI Design at [Memorisely](https://www.memorisely.com/)
+👩🏼‍💻 Currently working as Tutor at Code Institute
 
-📚 Studied UX Design & Software Development
+📚 Studied UX, UI Design & Software Development
 
 ⛵️ Learning how to Sail 
 
