@@ -5,8 +5,6 @@
 
 📚 Studied UX, UI Design & Software Development
 
-⛵️ Learning how to Sail 
-
 ## What I have worked with
 
 ### Programming Languages 
